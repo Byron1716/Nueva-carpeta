@@ -1,2 +1,2 @@
-﻿Diccionarios.Ejecutar();
-
+﻿Diccionarios.funcion1();
+Diccionarios.Ejecutar();
